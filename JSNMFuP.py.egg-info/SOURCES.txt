@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+JSNMFuP.py.egg-info/PKG-INFO
+JSNMFuP.py.egg-info/SOURCES.txt
+JSNMFuP.py.egg-info/dependency_links.txt
+JSNMFuP.py.egg-info/top_level.txt
+code/model.py
