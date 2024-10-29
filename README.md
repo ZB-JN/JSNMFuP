@@ -6,7 +6,7 @@ This is the Python implementation of the JSNMFuP algorithm. Note that this imple
 ## 1. Installation
 You can use the following command to install JSNMFuP:
 ```
-pip install JSNMFuP-py
+pip install JSNMFuP
 ```
 
 ## 2. Usage
