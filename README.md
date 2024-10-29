@@ -1,4 +1,4 @@
-# JSNMFup_py
+# JSNMFuP
 JSNMFuP: A unsupervised method for the integrative analysis of single-cell multi-omics data based on non-negative matrix factorization.
 
 This is the Python implementation of the JSNMFuP algorithm. Note that this implementation supports GPU acceleration.
